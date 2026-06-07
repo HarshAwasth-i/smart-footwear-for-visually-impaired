@@ -22,3 +22,5 @@ Smart footwear with sensors that detect obstacles and alert the user.
  📊 Future Scope
 - GPS integration
 - Mobile app connectivity
+
+It helps people in navigating in better way
