@@ -12,7 +12,7 @@ Smart footwear with sensors that detect obstacles and alert the user.
  ⚙️ Technologies Used
 - Sensors (Ultrasonic)
 - Microcontroller (Arduino)
-- Machine Learning (if used)
+- Machine Learning 
 
  🚀 Features
 - Obstacle detection
